@@ -22,8 +22,14 @@
 		<developer/>
 	</developers>
     <modules>
-        <module>chat_service</module>
-    </modules>
+    <module>api_gateway</module>
+    <module>cart_service</module>
+    <module>favorite_product_service</module>
+    <module>payment_service</module>
+    <module>product_service</module>
+    <module>profile_service</module>
+    <module>user_service</module>
+</modules>
     <scm>
 		<connection/>
 		<developerConnection/>
